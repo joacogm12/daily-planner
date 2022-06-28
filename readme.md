@@ -17,7 +17,7 @@ the application is really simple. at the top of the screen there is the date and
 
 * After clicking the save button your text will be stored in local storage
 
-![image1](assets/images/Captura%20de%20pantalla%202022-06-27%20112821.png)
+![image1](Assets/images/Captura%20de%20pantalla%202022-06-27%20112821.png)
 
 # Deployed Application
 
