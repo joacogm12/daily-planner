@@ -21,4 +21,4 @@ the application is really simple. at the top of the screen there is the date and
 
 # Deployed Application
 
-Link to the deployed project: 
+Link to the deployed project: https://joacogm12.github.io/daily-planner/
